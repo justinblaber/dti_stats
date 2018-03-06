@@ -11,10 +11,6 @@ git clone https://github.com/justinblaber/nifti_utils.git
 git clone https://github.com/justinblaber/dwmri_visualizer.git
 git clone https://github.com/justinblaber/dti_stats.git
 
-# Download csf label and template
-wget https://justinblaber.org/downloads/github/dti_stats/csf_label.zip
-unzip csf_label.zip
-
 # Optionally download example data
 wget https://justinblaber.org/downloads/github/dti_stats/PREPROCESSED.zip
 unzip PREPROCESSED.zip
