@@ -26,9 +26,9 @@ camino_path = '~/camino';
 bet_params = '-f 0.3 -R';
 
 % CSF info
-csf_info.label_path = 'csf_label/mni_icbm152_csf_tal_nlin_sym_09a_trunc.nii.gz';
-csf_info.template_path = 'csf_label/mni_icbm152_t2_tal_nlin_sym_09a.nii.gz';
-csf_info.template_masked_path = 'csf_label/mni_icbm152_t2_tal_nlin_sym_09a_mask.nii.gz';
+csf_info.label_path = 'dti_stats/csf_label/mni_icbm152_csf_tal_nlin_sym_09a_trunc.nii.gz';
+csf_info.template_path = 'dti_stats/csf_label/mni_icbm152_t2_tal_nlin_sym_09a.nii.gz';
+csf_info.template_masked_path = 'dti_stats/csf_label/mni_icbm152_t2_tal_nlin_sym_09a_mask.nii.gz';
 
 % Perform dti stats pipeline
 dti_stats_pdf_path = dti_stats_pipeline(job_dir_path, ...
