@@ -1,5 +1,5 @@
 # dti_stats
-DTI stats pipeline
+DTI stats pipeline used for quality assurance.
 
 # Installation instructions:
 1) Install [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)
