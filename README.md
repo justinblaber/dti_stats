@@ -31,9 +31,9 @@ The output PDF should look like:
 
 <a href="https://justinblaber.org/downloads/github/dti_stats/dti_stats.pdf">
 <p align="center">
-  <img width="769" height="995" src="https://i.imgur.com/P6vLxCP.png">
+  <img width="768" height="994" src="https://i.imgur.com/FXXELaE.png">
 </p>
 <p align="center">
-  <img width="768" height="994" src="https://i.imgur.com/2iuPADP.png">
+  <img width="768" height="993" src="https://i.imgur.com/98gnlPq.png">
 </p>
 </a>
